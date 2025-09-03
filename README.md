@@ -34,8 +34,6 @@
 - 🎶 [Songs2Notes](#) — MIDI Note Classification using ML  
 - 👥 [Employee Management System](#) — ASP.NET MVC + MSSQL + Crystal Reports  
 
-(*Upload these repos and link them here for recruiters to explore.*)
-
 ---
 
 ## 📊 GitHub Stats
