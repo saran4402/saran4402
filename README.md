@@ -30,12 +30,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 🎶 [Songs2Notes](#) — MIDI Note Classification using ML  
-- 👥 [Employee Management System](#) — ASP.NET MVC + MSSQL + Crystal Reports  
-
----
-
 ## 📊 GitHub Stats
 ![Saran's GitHub stats](https://github-readme-stats.vercel.app/api?username=saran4402&show_icons=true&theme=radical)
 
