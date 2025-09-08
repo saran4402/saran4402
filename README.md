@@ -1,17 +1,17 @@
-# 👋 Hi, I’m Saran KS  
+#  Hi, I’m Saran KS  
 
-🎓 Final year **B.Tech in Computer Science and Business Systems** student at RSET, Kerala  
-💻 Passionate about **Artificial Intelligence, Web Development, and Data Science**  
-🚀 Curious learner eager to contribute to impactful projects  
+ Final year **B.Tech in Computer Science and Business Systems** student at RSET, Kerala  
+ Passionate about **Artificial Intelligence, Web Development, and Data Science**  
+ Curious learner eager to contribute to impactful projects  
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Exploring **Machine Learning, .NET Development, and Full Stack Projects**
-- 🛠️ Intern @ OnFlap Technologies — built a **role-based login system** with ASP.NET MVC & .NET Core
-- 🎶 Project: **Songs2Notes** – MIDI Note Classification using ML  
-- 📊 Project: **Employee Management System** – ASP.NET MVC + MSSQL + SAP Crystal Reports
-- 💡 Seeking placement opportunities in IT to apply skills & grow professionally
+##  About Me
+-  Exploring **Machine Learning, .NET Development, and Full Stack Projects**
+-  Intern @ OnFlap Technologies — built a **role-based login system** with ASP.NET MVC & .NET Core
+-  Project: **Songs2Notes** – MIDI Note Classification using ML  
+-  Project: **Employee Management System** – ASP.NET MVC + MSSQL + SAP Crystal Reports
+-  Seeking placement opportunities in IT to apply skills & grow professionally
 
 ---
 
